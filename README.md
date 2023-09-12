@@ -10,3 +10,4 @@
 </ul>
 <p>Pozdeji mám v plánu přidat pomocí JavaScirptu změnu theme na dark/white.</p>
 <img src="/assets/imgs/screen-portfolio.jpg">
+<img src="/assets/imgs/screen-portfolio-2.jpg">
