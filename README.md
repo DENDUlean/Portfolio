@@ -8,5 +8,5 @@
   <li>JavaScript funkce pro scoll podle sekce</li>
   <li>Cleaning code pro CSS</li>
 </ul>
-<p>Pozdeji mám v plánu přidat pomocí JavaScirptu změnu theme na dark/white </p>
+<p>Pozdeji mám v plánu přidat pomocí JavaScirptu změnu theme na dark/white.</p>
 <img src="/assets/imgs/screen-portfolio.jpg">
