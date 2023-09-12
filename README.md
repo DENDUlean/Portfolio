@@ -5,6 +5,7 @@
   <li>Doplnit 2 poslední projekty</li>
   <li>Responzivní design (doplním do 14.9.2023)</li>
   <li>Doplnění CV pro stažení (doplním do 14.9.2023)</li>
+  <li>Doplním zbytek odkazů</li>
   <li>JavaScript funkce pro scoll podle sekce</li>
   <li>Cleaning code pro CSS</li>
 </ul>
