@@ -1,5 +1,5 @@
 <h1>Portfolio</h1>
-<p>Vítám Vás. Zde je mé první portfolio, jakožto junior web fontend developer.</p>
+<p>Vítám Vás. Zde je mé první portfolio, jakožto junior Frontend Developer.</p>
 <p>Portfolio ještě prochází posledními úpravy. Je potřeba dodělat následující:</p>
 <ul>
   <li>Doplnit 2 poslední projekty</li>
